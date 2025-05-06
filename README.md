@@ -42,7 +42,6 @@ int main()
 </p>
 
 ![Heaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaaaaaaa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heaaaaaaa&langs_count=8&layout=compactshow_icons=true&theme=radical)](https://github.com/Heaaaaaaa/github-readme-stats)
 
 <p align="center">
   <img src=https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif>
