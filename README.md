@@ -14,20 +14,21 @@ using namespace std;
 string Education()
 {
     World-Class_Chinese_Independent_High_School=Foon_Yew_High_School;
+    Heriott-Watt University
 }
 
 string Interest()
 {
-    string int_1="Reading Novel";
-    string int_2="Read Comics";
-    string int_2="Watch Animes";
+    string int_1="Sleep";
+    string int_2="Sleep";
+    string int_2="And Sleep";
 }
 
 int main()
 {
   string Name=Heaaaa;
-  int Age=17;
-  string Currently_learning[2]={"C++","Further Math"};
+  int Age=20;
+  string Currently_learning[2]={"ML","Actuarial Science"};
   return 0;
 }
 ```
@@ -42,7 +43,7 @@ int main()
 
 ![Heaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaaaa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heaaaa&langs_count=8&layout=compactshow_icons=true&theme=radical)](https://github.com/Heaaaa/github-readme-stats)
-![Snake animation](https://github.com/Heaaaa/Heaaaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Heaaaaaaa/Heaaaaaaa/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src=https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif>
